@@ -7,4 +7,4 @@ This initial release features the ability to add and remove items from a cart, t
 
 A mock 'checkout' process may be added a a later date as time permits.
 
-A demo is accessible at the following url: 
+A demo is accessible at the following url: [fauxcart.netlify.app](https://fauxcart.netlify.app/)
